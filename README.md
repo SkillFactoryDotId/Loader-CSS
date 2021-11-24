@@ -2,5 +2,5 @@
 Beberapa contoh script Loader menggunakan pure CSS yang dapat di implementasikan di web sahabat.
 
 ## Credits: 
- - https://codepen.io/lewis_adame/pen/RKdNBb
- - https://codepen.io/ivillamil/pen/dokmG
+ - https://codepen.io/aviforever/pen/dOLLGG?editors=1100
+ - https://codepen.io/Bilal1909/pen/mdPVBJw
