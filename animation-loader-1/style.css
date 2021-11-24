@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: #fff;
+}
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.bounce {
+  width: 30px;
+  height: 30px;
+  background: #5030dd;
+  border-radius: 50%;
+  display: inline-block;
+  animation: 1.5s show infinite ease-in-out both;
+}
+.bounce1 {
+  animation-delay: -0.2s;
+}
+.bounce2 {
+  animation-delay: -0.4s;
+}
+.bounce3 {
+  animation-delay: -0.6s;
+}
+@keyframes show {
+  0%,
+  80%,
+  100% {
+    transform: scale(0);
+  }
+  40% {
+    transform: scale(1);
+  }
+}
